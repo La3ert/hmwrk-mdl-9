@@ -1,0 +1,14 @@
+C:\Users\Admin\RiderProjects\Homework_mdl9\BelieveItOrNot\bin\Release\net8.0\BelieveItOrNot.exe
+C:\Users\Admin\RiderProjects\Homework_mdl9\BelieveItOrNot\bin\Release\net8.0\BelieveItOrNot.deps.json
+C:\Users\Admin\RiderProjects\Homework_mdl9\BelieveItOrNot\bin\Release\net8.0\BelieveItOrNot.runtimeconfig.json
+C:\Users\Admin\RiderProjects\Homework_mdl9\BelieveItOrNot\bin\Release\net8.0\BelieveItOrNot.dll
+C:\Users\Admin\RiderProjects\Homework_mdl9\BelieveItOrNot\bin\Release\net8.0\BelieveItOrNot.pdb
+C:\Users\Admin\RiderProjects\Homework_mdl9\BelieveItOrNot\obj\Release\net8.0\BelieveItOrNot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\Homework_mdl9\BelieveItOrNot\obj\Release\net8.0\BelieveItOrNot.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\Homework_mdl9\BelieveItOrNot\obj\Release\net8.0\BelieveItOrNot.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\Homework_mdl9\BelieveItOrNot\obj\Release\net8.0\BelieveItOrNot.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\Homework_mdl9\BelieveItOrNot\obj\Release\net8.0\BelieveItOrNot.dll
+C:\Users\Admin\RiderProjects\Homework_mdl9\BelieveItOrNot\obj\Release\net8.0\refint\BelieveItOrNot.dll
+C:\Users\Admin\RiderProjects\Homework_mdl9\BelieveItOrNot\obj\Release\net8.0\BelieveItOrNot.pdb
+C:\Users\Admin\RiderProjects\Homework_mdl9\BelieveItOrNot\obj\Release\net8.0\BelieveItOrNot.genruntimeconfig.cache
+C:\Users\Admin\RiderProjects\Homework_mdl9\BelieveItOrNot\obj\Release\net8.0\ref\BelieveItOrNot.dll
